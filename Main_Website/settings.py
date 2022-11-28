@@ -31,6 +31,7 @@ ALLOWED_HOSTS = ['127.0.0.1','http://xtron135.pythonanywhere.com']
 # Application definition
 
 INSTALLED_APPS = [
+	'SimpleApp.apps.SimpleappConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
