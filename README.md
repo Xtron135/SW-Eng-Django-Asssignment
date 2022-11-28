@@ -15,3 +15,4 @@ Website Link: http://xtron135.pythonanywhere.com
 4. Upload Django Project to Github (Use token on profile -> settings -> developer settings instead of Github account password): https://codinggear.blog/how-to-upload-django-project-to-github/
 5. Deploy Django Project from Github to Pythonanywhere (Web server hosting): https://help.pythonanywhere.com/pages/DeployExistingDjangoProject/
 6. Solution for error when using git pull to update pythonanywhere server (error: Your local changes to the following files would be overwritten by merge:): https://stackoverflow.com/questions/14318234/how-do-i-ignore-an-error-on-git-pull-about-my-local-changes-would-be-overwritt
+7. Edit tab space count for linux tax editor (Nano): https://stackoverflow.com/questions/11173769/how-to-make-the-tab-character-4-spaces-instead-of-8-spaces-in-nano
