@@ -6,7 +6,22 @@ Group: Amazing Spiders
 
 Website Link: http://xtron135.pythonanywhere.com
 
+## _Problem Statement_
 
+Plant measurements are time-consuming and labor-intensive since most producers still use pens and clipboards. Furthermore, in order for these handwritten measures to be helpful, they must be put into a spreadsheet. We eliminate double processing of data, limit human mistake, and speed up crop registration by employing the crop registration function in our apps.
+
+ Record over 10 crop measurement types:
+ 1. Growth
+ 2. Stem Diameter
+ 3. Leaf Length
+ 4. Leaf Width
+ 5. Leaves Per Plant
+ 6. Fruit Weight
+ 7. Fruit number per plant
+ 8. Flowering Speed
+ 9. Setting Speed
+ 10. Leaf Area Index
+ 
 ## _Reference Links_
 
 1. Setup Django: https://www.digitalocean.com/community/tutorials/how-to-install-the-django-web-framework-on-ubuntu-22-04
