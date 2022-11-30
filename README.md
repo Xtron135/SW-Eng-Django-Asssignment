@@ -16,3 +16,4 @@ Website Link: http://xtron135.pythonanywhere.com
 5. Deploy Django Project from Github to Pythonanywhere (Web server hosting): https://help.pythonanywhere.com/pages/DeployExistingDjangoProject/
 6. Solution for error when using git pull to update pythonanywhere server (error: Your local changes to the following files would be overwritten by merge:): https://stackoverflow.com/questions/14318234/how-do-i-ignore-an-error-on-git-pull-about-my-local-changes-would-be-overwritt
 7. Edit tab space count for linux tax editor (Nano): https://stackoverflow.com/questions/11173769/how-to-make-the-tab-character-4-spaces-instead-of-8-spaces-in-nano
+8. Web Programming Tutorial: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#anatomy_of_an_html_document
