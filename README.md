@@ -29,7 +29,7 @@ Using MIT App Inventor to collect data from users.
 ## _Cloud Platform And Dashboad_
 
 We use Pythonanywhere to store the data using SQLite3 database, and we design a UI on the server to act as the Dashboard.
-![python anywhere](https://user-images.githubusercontent.com/94394142/204982062-80cc8d62-6009-4fb6-8dc2-cd57f5bcf48e.jpg)
+![python anywhere](https://user-images.githubusercontent.com/94394142/204982062-80cc8d62-6009-4fb6-8dc2-cd57f5bcf48e.jpg | width = 200)
 
  
 ## _Reference Links_
