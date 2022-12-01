@@ -25,7 +25,7 @@ Plant measurements are time-consuming and labor-intensive since most producers s
 ## _Sensor_
 
 Using MIT App Inventor to collect data from users.
-![WhatsApp Image 2022-12-01 at 14 22 57](https://user-images.githubusercontent.com/94394142/204983902-5d26ae05-7144-4419-9a15-628277c7970c.jpeg)
+ ![WhatsApp Image 2022-12-01 at 14 22 57](https://user-images.githubusercontent.com/94394142/204983902-5d26ae05-7144-4419-9a15-628277c7970c.jpeg)
 
 ## _Cloud Platform And Dashboad_
 
