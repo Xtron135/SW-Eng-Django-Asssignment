@@ -25,6 +25,8 @@ Plant measurements are time-consuming and labor-intensive since most producers s
  ## _System Architecture_
  
  ![Device](https://user-images.githubusercontent.com/117256366/204984959-432ec017-120e-4010-8421-bb7d87d5f3e5.jpg)
+  - We are using MIT App Inventor as our input from user
+  - We use Pythonanywhere to store data in SQLite3 Database, and we Design UI directly in the Pythonanywhere server.
 
 ## _Sensor_
 
