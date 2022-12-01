@@ -22,6 +22,10 @@ Plant measurements are time-consuming and labor-intensive since most producers s
  9. Setting Speed
  10. Leaf Area Index
  
+ ## _System Architecture_
+ 
+ ![Device](https://user-images.githubusercontent.com/117256366/204984959-432ec017-120e-4010-8421-bb7d87d5f3e5.jpg)
+
 ## _Sensor_
 
 ![WhatsApp Image 2022-12-01 at 14 22 57](https://user-images.githubusercontent.com/94394142/204983902-5d26ae05-7144-4419-9a15-628277c7970c.jpeg)
