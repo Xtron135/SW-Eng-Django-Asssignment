@@ -22,6 +22,14 @@ Plant measurements are time-consuming and labor-intensive since most producers s
  9. Setting Speed
  10. Leaf Area Index
  
+## _Sensor_
+
+Using MIT App Inventor to collect data from users.
+
+## _Cloud Platform And Dashboad_
+
+We use Pythonanywhere to store the data using SQLite3 database, and we design a UI on the server to act as the Dashboard.
+ 
 ## _Reference Links_
 
 1. Setup Django: https://www.digitalocean.com/community/tutorials/how-to-install-the-django-web-framework-on-ubuntu-22-04
