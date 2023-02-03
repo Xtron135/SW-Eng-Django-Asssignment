@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>My test page</title>
+  </head>
+  <body>
+	{% if list_soalan %}
+		<ul>
+		{% for soalan in list_soalan %}
+			<li><a href="{% url 'polls:detail' soalan.id %}/">{{ soalan.teks_soalan }}</a></li>
+		{% endfor %}
+		</ul>
+	{% else %}
+		<p>No polls are available.</p>
+	{% endif %}
+  </body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>My test page</title>
+  </head>
+  <body>
+	<form action="{% url 'polls:undi' soalan.id %}" method="post">
+	{% csrf_token %}
+	<fieldset>
+		<legend><h1>{{ soalan.teks_soalan }}</h1></legend>
+		{% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
+		{% for pilihan in soalan.choice_set.all %}
+			<input type="radio" name="pilihan" id="pilihan{{ forloop.counter }}" value="{{ pilihan.id }}">
+			<label for="pilihan{{ forloop.counter }}">{{ pilihan.teks_pilihan }}</label><br>
+		{% endfor %}
+	</fieldset>
+	<input type="submit" value="Undi">
+	</form>
+  </body>
+</html>

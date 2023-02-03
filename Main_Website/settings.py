@@ -32,6 +32,7 @@ ALLOWED_HOSTS = ['127.0.0.1','xtron135.pythonanywhere.com']
 
 INSTALLED_APPS = [
 	'SimpleApp.apps.SimpleappConfig',
+	'polls.apps.PollsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
